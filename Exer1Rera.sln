@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer1Rera", "Exer1Rera\Exer1Rera.csproj", "{A101E245-8CB5-4945-A4D8-EAAB199656D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A101E245-8CB5-4945-A4D8-EAAB199656D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A101E245-8CB5-4945-A4D8-EAAB199656D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A101E245-8CB5-4945-A4D8-EAAB199656D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A101E245-8CB5-4945-A4D8-EAAB199656D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5DF74C0-1A5E-40FD-83D2-33AB6828ECDD}
+	EndGlobalSection
+EndGlobal
